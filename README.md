@@ -29,7 +29,7 @@ cd random-password-generator
 
 ### Running the Generator
 
-1. **Open the Application:** Follow the instructions for running the application (e.g., open `index.html` in your web browser or run `python main.py` if it's a Python project).
+1. **Open the Application:** Follow the instructions for running the application.
 2. **Customize Your Password:**
    - Set the desired length of your password.
    - Select the character types you wish to include (uppercase, lowercase, numbers, special characters).
