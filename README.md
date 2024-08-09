@@ -25,14 +25,6 @@ git clone https://github.com/yourusername/random-password-generator.git
 cd random-password-generator
 ```
 
-### Install Dependencies (if applicable)
-
-If your project requires any dependencies, specify them here. For example:
-
-```bash
-npm install
-```
-
 ## Usage
 
 ### Running the Generator
